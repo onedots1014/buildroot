@@ -1,2 +1,4 @@
 LINUX_OVERRIDE_SRCDIR = ../linux/
-
+BUSYBOX_OVERRIDE_SRCDIR = ../busybox/
+UBOOT_OVERRIDE_SRCDIR = ../u-boot/
+ARM_TRUSTED_FIRMWARE_OVERRIDE_SRCDIR = ../arm-trusted-firmware/
